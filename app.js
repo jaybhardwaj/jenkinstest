@@ -9,7 +9,7 @@ var session = require('express-session');
 var multer = require('multer');
 var routes = require('./routes/index');
 
-//This is to test devops.My name is khan and i am not a terrorist.
+//Hello welcome to the world.
 
 var app = express();
 
